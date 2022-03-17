@@ -26,7 +26,7 @@ chmod +x autorun.sh
 
 Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
 (At schedule:
-    - cron: '0 0/1 * * *' ) in m3u_Generator.yml
+    - cron: '0 0/1 * * *' ) in m3u_Generator.yml 1 is 1hr
     
 ### Support
 
