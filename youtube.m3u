@@ -1,66 +1,21 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
-
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#                                  >> https://github.com/benmoose39     #
-#########################################################################
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553966/ei/TVkzYt-NOvG3ir4P47qTuAs/ip/40.77.81.92/id/qWf-FPFmVw0.3/source/yt_live_broadcast/requiressl/yes/tx/24153814/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJyWC-RJpJWfzXzE5kzImNemAcfDnioSLRIpJJn4xuNXAiEA9_Yd1FpJ2ufWlLedCGmqlwHBf_fd8vgQ6yZ5z6nfh3I%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", 4K Nature 24/7- LoungeV Films
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", The World Live- earthTV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Radio" tvg-logo="http://3.bp.blogspot.com/-4CDRDYQPlZo/UMsFyQQCy0I/AAAAAAAANLc/-8LXzSkTdsA/s1600/Alternative-Music-Logo-PNG.png" tvg-id="", Alternative Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553968/ei/UFkzYraJJbeJ_tcP57S9gAk/ip/40.77.81.92/id/5X18D-EbjUc.3/source/yt_live_broadcast/requiressl/yes/tx/24161927/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALU9FI1ohhQewUU9BCMK_UjoW4CLrhDdGjabO4kWCjZPAiAK3--ao54EKz319Q7BLwX-UIVaKaUmWhQ3IfJ4JVf8Kg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1647558303/ei/P2ozYvGDNsXuigTpjZfoCg/ip/40.69.164.121/id/qWf-FPFmVw0.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr5---sn-q4fl6ner.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/ae/mm/44/mn/sn-q4fl6ner/ms/lva/mv/u/mvi/5/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1647533985/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgF0pJYUvux5g0yevOUpd4oTa7LjaJbuck0zs2v7DkFSkCIHyPpOdYLyvtA5dgYJ4GMuffmABCHPkf-Kcq8K_oUZ8S/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgXeg3NyGugzt86HxgMsP0c2HoDDJbMJx8Qe79i1dPBwwCIQCVxZN71eFMKWcDrRJHK1d28xtS-eWsg2eDK6iDMDwmxQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png" tvg-id="", Best Suffle Dance
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553969/ei/UVkzYpHKBZH4NovGkTg/ip/40.77.81.92/id/qWf-FPFmVw0.3/source/yt_live_broadcast/requiressl/yes/tx/24153814/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeTJ666VZ1O3Dmqs2KJH7lE4vDrsIyPPGFawvgV2WBe4CICfoOuGl6nhT8ElfitnpFv7TNv4sGl7i0V8536QjJhku/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1647558305/ei/QWozYoW5HI6iigSqvp3ABQ/ip/40.69.164.121/id/qWf-FPFmVw0.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr5---sn-q4flrn7k.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/ae/mm/44/mn/sn-q4flrn7k/ms/lva/mv/u/mvi/5/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1647535385/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAO6D4zV-42qXR8vGeuDT4mGIOnDwnKnW2AUGTQzMGlgQAiEA6ONXiB0DCLttZ9Gv32V_Gc0wNXj6cFb7jH_j6g3SUTc%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgK4wuqkakZka7A5x7ZItPqz9GzOfvRaUKDHRlIh93SpQCIQChjeY-CqyYiEbI6JaX1VdPAteEgr4rACKSEIXo5XXulQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", XDeep Club-Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - ...
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553969/ei/UVkzYqGWKIv5igTc4ozwDg/ip/40.77.81.92/id/YsBe9BFIjBs.2/source/yt_live_broadcast/requiressl/yes/tx/24129504/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPOcxq8SriWO6qD15coEkwBT1DtN07TF3kBVuctK_eltAiAc8DuW0tkqzvxW1h41xitv5P1u8-m3dCbxF4iBWd9RVg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", XDeep Club-Ed Sheeran, Kygo, Dua Lipa, Avicii, Martin Garrix, The Chainsmokers...
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1647558306/ei/QmozYs48uI3b-A-ylo-YBw/ip/40.69.164.121/id/YsBe9BFIjBs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-q4flrnss.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Q6/mm/44/mn/sn-q4flrnss/ms/lva/mv/u/mvi/4/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1647533985/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgL9Lke-2uhLr4j32atQDhieOv6JokkvU-RK7_Vc0Xjf4CIGy8KP2nP9Sxu_TK4nJUrXl0_OVVwp_4lrnaom_eeUkw/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAIumUyZFpyVwGsNloDaY00qx0J3X-Iq0cM1D8pr3ORPZAiEAnpg6m1i8x3cMcsXp-3XECUyo17dW9_pX1rci9rXLyPQ%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Chillout Lounge - Calm & Relaxing Background Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553971/ei/U1kzYveNFdSW2_gPx6OmiAo/ip/40.77.81.92/id/9UMxZofMNbA.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOre3wCTcWmyIwXt30a2Rk-yJ_dovAD8XnBTW2byUITkCIHgSB-8YYAcwTnumiaVNjXN68KrTZbJP5fvU5EFAVr61/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1647558307/ei/Q2ozYte1DsnXlu8PtumBoA8/ip/40.69.164.121/id/9UMxZofMNbA.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-q4flrne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/vn/mm/44/mn/sn-q4flrne7/ms/lva/mv/u/mvi/4/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1647535385/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhALubFf2xWJq257NhjTqgG7hAmdnCnfmSDRdsp9tL3yzJAiEAxiE8thzx9I7BYcxrOq4D4U5b9EShiWZ3lUIRX1UHrCM%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAJ3CtyHBROmcAcq9uDUPs2guPYX3_aNUtlrw8vA7M54EAiAK1CSz8KGFxbQvKj_TvS5sSZ4_TSrLl3heW4NiJOFeiQ%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Deep House Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Radio Pop Mix
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Eirewave Radio Pop Rock Music
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Uplifting Trance Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553973/ei/VVkzYvzgLLGlir4P-aKVmAE/ip/40.77.81.92/id/WYetg3AuLE4.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYVc_a8GxlHGevnpoQuu6MRNKdXqKUWNdZP0IKH1HF6gCIQCCegpIWsKbdgqlEtkdwUAR8Wh05cJqxJCDoKv7rS7ESA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Euphoric & Uplifting Trance Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553974/ei/VlkzYubuDICGlu8Pw5eGoA4/ip/40.77.81.92/id/A5sUa0bNRj8.2/source/yt_live_broadcast/requiressl/yes/tx/24153814/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFZd-dC89Hi_KIIsr-Q2nWBByOAuM56dM8c3t2vyZXbUCIFKZJfUplh5xgJXrlrUg3Z9-WrRzOQ2Pw6DkJKGy9VMy/file/index.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Vocal Trance Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553974/ei/VlkzYqi_L8OwuwK2mpXIBg/ip/40.77.81.92/id/DPXQG8S9Xwc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886212/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIRPhZB-06O31MTC4YrljKNCHrEY-u1ldJuLcQc4gw-4AiA7hv-p6zBqIUkvJ4TlfjS9YW78r8wGFXVEb1s2z36_mg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Chill Radio
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Nightcore Gaming Mix 2021
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="" tvg-id="", Bernama TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Lofi" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGIymQGp3jRMECbTCBSRAUqi8sKbATpWowQG44CA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", LOFI MUSIC LIVE 24/7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553978/ei/WlkzYtyPKovWugKE0I3YBg/ip/40.77.81.92/id/5qap5aO4i9A.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAONXqnDlFmlf05iIyIg95vzK0XqClK_dX43C8Klw-SKsAiEAtdlGtmeeVS8RstoZtFCNLTNFNyjVTZPuFdjWyrItGaM%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Webcam" tvg-logo="" tvg-id="", Elysium Resort & Spa Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647553979/ei/W1kzYsvJDYSmuwLS6KKYCg/ip/40.77.81.92/id/V513W2TVk50.1/source/yt_live_broadcast/requiressl/yes/tx/24027701/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTNVApkmpZU3wiH25leUjxwHfnNg7ClxybGTjXp0N5U4CIAD1rAeFXxC0S_qMnGgsreMB81eNUtWseFlGvmpGSzUY/file/index.m3u8
