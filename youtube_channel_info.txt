@@ -29,4 +29,7 @@ TVB Jade | Test | |
 https://liveng.alicdn.com/mediaplatform/5f4a55c8-c7c5-feb3-60aa-325c8a5cf8a6.m3u8?auth_key=1648268592-0-0-e516930431ad03a93f45beb092dc6519
 
 TVB Jade | Test | |
-http://iptv.tvfix.org/play/jade
+http://iptv.tvfix.org/hls/jadehk2.m3u8
+
+TVB Jade | Test | |
+http://iptv.tvfix.org/hls/jadehk_v.m3u8
