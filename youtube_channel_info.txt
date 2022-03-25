@@ -25,11 +25,12 @@ https://www.youtube.com/watch?v=KHpL_E0ZIMg
 Cassette online station | Music | |
 https://www.youtube.com/watch?v=hfbrLTCK-P0
 
-TVB Jade | Test | |
-https://liveng.alicdn.com/mediaplatform/5f4a55c8-c7c5-feb3-60aa-325c8a5cf8a6.m3u8?auth_key=1648268592-0-0-e516930431ad03a93f45beb092dc6519
+ch3plus | Test | |
+https://ch3plus.com/live
 
 TVB Jade | Test | |
 http://iptv.tvfix.org/hls/jadehk2.m3u8
 
-TVB Jade | Test | |
+ch7 | Test | |
+https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
 http://iptv.tvfix.org/hls/jadehk_v.m3u8
