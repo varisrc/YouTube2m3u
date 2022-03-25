@@ -25,14 +25,11 @@ https://www.youtube.com/watch?v=KHpL_E0ZIMg
 Cassette online station | Music | |
 https://www.youtube.com/watch?v=hfbrLTCK-P0
 
-ch3plus | Test | |
-https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1648229969&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=HndJ8tC6lt5aU0OGigL4TQ|Referer=https://ch3plus.com/live
+SBS KPOP  | Korean | |
+https://youtu.be/F4aby5WN1Rw
 
-ch3plus 2| Test | |
-https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1648230631&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=4qa6QWjNbKCeRQ1V5R6BSA
+Arirang | Korean | |
+https://youtu.be/kTSbZym4uLw
 
-TVB Jade | Test | |
-http://iptv.tvfix.org/hls/jadehk2.m3u8
-
-ch7 | Test | |
-https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
+KBS News  | Korean | |
+https://youtu.be/uvBk8u3_qB0
