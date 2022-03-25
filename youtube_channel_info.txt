@@ -26,7 +26,10 @@ Cassette online station | Music | |
 https://www.youtube.com/watch?v=hfbrLTCK-P0
 
 ch3plus | Test | |
-https://ch3plus.com/live
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1648229969&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=HndJ8tC6lt5aU0OGigL4TQ|Referer=https://ch3plus.com/live
+
+ch3plus 2| Test | |
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1648230631&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=4qa6QWjNbKCeRQ1V5R6BSA
 
 TVB Jade | Test | |
 http://iptv.tvfix.org/hls/jadehk2.m3u8
