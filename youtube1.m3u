@@ -3,4 +3,6 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 
 #EXTINF:-1 group-title="1" tvg-logo="" tvg-id="", 1
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1648328855/ei/Nyw_Yrn1E5mkir4PsuWzqAE/ip/23.101.122.171/id/h3MuIUNCCzI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr6---sn-q4fl6ney.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/4ocVC1k5-kYGMAIcdZO_2DUAfGkI/vprv/1/playlist_type/DVR/mh/wT/mm/44/mn/sn-q4fl6ney/ms/lva/mv/u/mvi/6/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1648307102/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhAOh7n1LrOchl9maqVylNgEwNcJUQrREu7cpNijLp1UEPAiAhgyI_xPbaYkbpj50rpibQ3NUpu6gFbCjKPxuXkDwvgA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAIxd6zctao52tn9L1rPmTuBkN1ZX2T5HUYU9KO0eCiD-AiBeyu4j179j1FfguSjjpHYBZTSFQoPq4LG8gJmRpYMdhg%3D%3D/playlist/index.m3u8
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8 
+ on 
+ us-west-lax-2
