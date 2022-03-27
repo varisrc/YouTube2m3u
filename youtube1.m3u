@@ -3,6 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 
 #EXTINF:-1 group-title="1" tvg-logo="" tvg-id="", 1
-https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8 
- on 
- us-west-lax-2
+https://raw.githubusercontent.com/varisrc/YouTube2m3u/main/assets/will%20be%20right%20back.mp4
