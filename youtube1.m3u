@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 
 #EXTINF:-1 group-title="1" tvg-logo="" tvg-id="", 1
-https://raw.githubusercontent.com/varisrc/YouTube2m3u/main/assets/will%20be%20right%20back.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1648409486/ei/LmdAYsvcC5PouQKcgZKYCg/ip/40.77.47.172/id/wGnofagEVTE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-q4flrnlz.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/4ocVCzwC7lmqZj_F9qBUF14T6SbS/vprv/1/playlist_type/DVR/mh/9S/mm/44/mn/sn-q4flrnlz/ms/lva/mv/u/mvi/2/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/beids/23886200/mt/1648386869/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhALEVunHmIXciIvKyEd3aIjgScYTWDVDR6uLBxX1m2siEAiA7tCGtPCm8AySSjmPxdRX_Ffz166AuKvQ5GvxcSs1-0g%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAMHF3I18mQgq_c2CUhjfj98Cu2Bf7rKetcgJHVmQj2DdAiEAiLGXlThxgt3ZSmTve1pPEPOavotVKJXBu2RJe7VxDk8%3D/playlist/index.m3u8
