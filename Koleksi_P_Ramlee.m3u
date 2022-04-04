@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
-#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 
-https://raw.githubusercontent.com/varisrc/YouTube2m3u/main/assets/will%20be%20right%20back.mp4
