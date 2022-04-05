@@ -39,7 +39,7 @@ def grab(url):
     print(hd[st:].strip())
     #print(f"{link[start : end]}")
 
-print('#EXTM3U x-tvg-url=""')
+print('#EXTM3U')
 s = requests.Session()
 with open('../youtube_channel_info1.txt') as f:
     for line in f:
