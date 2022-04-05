@@ -39,7 +39,7 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun1.sh
+          chmod +x autoSukaTV.sh
           ./autorun1.sh
           
       - name: git add
