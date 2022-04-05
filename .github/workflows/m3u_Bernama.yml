@@ -5,7 +5,7 @@ name: M3U_Bernama
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 0/3 * * *'
+    - cron: '0 0/2 * * *'
 
   pull_request:
     branches:
@@ -39,7 +39,7 @@ jobs:
         run: |
           pwd
           chmod +x autoBernama.sh
-          ./autorun1.sh
+          ./autoBernama.sh
           
       - name: git add
         run: |
