@@ -41,7 +41,7 @@ def grab(url):
 
 print('#EXTM3U')
 s = requests.Session()
-with open('../youtube_channel_info1.txt') as f:
+with open('../YTLink_sukatv.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
