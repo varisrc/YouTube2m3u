@@ -1,7 +1,11 @@
 
 <h1 align="center"> YouTube_to_m3u </h1>
 
-[![M3U generator for YouTube](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+[![M3U_Bernama](https://github.com/varisrc/YouTube2m3u/actions/workflows/m3u_Bernama.yml/badge.svg)](https://github.com/varisrc/YouTube2m3u/actions/workflows/m3u_Bernama.yml)
+
+[![M3U_SukaTV](https://github.com/varisrc/YouTube2m3u/actions/workflows/m3u_SukaTV.yml/badge.svg)](https://github.com/varisrc/YouTube2m3u/actions/workflows/m3u_SukaTV.yml)
+
+[![M3U_ErrorScreen](https://github.com/varisrc/YouTube2m3u/actions/workflows/m3u_ErrorScreen.yml/badge.svg)](https://github.com/varisrc/YouTube2m3u/actions/workflows/m3u_ErrorScreen.yml)
 
 `https://raw.githubusercontent.com/varisrc/YouTube2m3u/main/youtube.m3u`
 
