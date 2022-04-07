@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 sukatv.py > ../LinkSükeTV.m3u8
+python3 sukatv.py > ../LinkSukeTV.m3u8
 
 echo m3u grabbed
