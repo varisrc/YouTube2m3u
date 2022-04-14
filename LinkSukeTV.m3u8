@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/varisrc/YouTube2m3u/main/assets/YouCut_20220402_155417947.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1649960683/ei/ixJYYsm8NIXo8wTO4q-IAg/ip/20.22.232.137/id/84MozM7_1d8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr6---sn-5ualdn7d.googlevideo.com/spc/4ocVC_Rwon8aFiwO4oKyinpytxFb/vprv/1/playlist_type/LIVE/mh/KB/mm/44/mn/sn-5ualdn7d/ms/lva/mv/u/mvi/6/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1649938294/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhALaUpXuHdMbE5OJ3J_4etudbpiOmGxi8_jjR8vVcOPkwAiBvnIHUjKAHVDFI6GEc1vHBS7Fo28ZPADHWziE1Vqs8YA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAN_CXY5jBEYwlFim0-7vYL8IBc2PCSRJEOvzSUOZVI8ZAiBS98iBNUJ1bFO1oYsX7ODaIBI23Yu8dOhmT_2wSlt80Q%3D%3D/playlist/index.m3u8
