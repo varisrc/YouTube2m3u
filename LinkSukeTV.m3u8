@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1650327465/ei/SatdYtiIFZOwhwax75SYCg/ip/20.242.74.111/id/84MozM7_1d8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-naj7yn76.googlevideo.com/spc/4ocVCz61jAyuxg2C2i1XlP5vhqhB/vprv/1/playlist_type/LIVE/mh/KB/mm/44/mn/sn-naj7yn76/ms/lva/mv/u/mvi/3/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/beids/24027536/mt/1650305537/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgcFc9sVli44qJ86zNo7IS4dn7w61E34DjBSNDNZcE_cQCIQDYZOVCYtTE5uRu0wqT58W6yrOKxMc16MNoVLh_z3yJ5w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgCDvy-WI1zKbLLSdqZ4HgpbRR6MnbwYuZzBdjfEpXCjUCIHxAzX-s5mmC1isOwVfy6S2YQZPbQHeeEzjMDoSO3WjC/playlist/index.m3u8
+https://raw.githubusercontent.com/varisrc/YouTube2m3u/main/assets/YouCut_20220402_155417947.mp4
