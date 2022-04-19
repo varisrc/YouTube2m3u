@@ -40,7 +40,7 @@ def grab(url):
     #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-s = requests.Session()
+#s = requests.Session()
 with open('../YTLink_sukatv.txt') as f:
     for line in f:
         line = line.strip()
