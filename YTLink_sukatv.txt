@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
  | | | 
-https://youtu.be/84MozM7_1d8
+https://m.youtube.com/watch?v=G1yN5_6tGFQ
